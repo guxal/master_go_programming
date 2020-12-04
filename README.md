@@ -1,3 +1,3 @@
-# Master go progrmming
+# Master go programming
 
-## application structure
+# go basics
