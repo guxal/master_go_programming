@@ -13,7 +13,7 @@ in Go there are 3 scopes:
 
 3. Block (local) Scope
 
-´´´´go
+```go
 package main 
 
 import "fmt"  //file scope
@@ -24,5 +24,4 @@ func main() {
     x := 10 //local (block) scope
     fmt.Println(x)
 }
-
-´´´´
+```
