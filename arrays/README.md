@@ -1,4 +1,4 @@
-# Array Basics in Go
+# Arrays in Go
 
 - An array is a composite, indexable type that stores a collection of elements of same type.
 
