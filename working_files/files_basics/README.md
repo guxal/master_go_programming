@@ -12,7 +12,6 @@ We can Use opening attributes individually or combined using an OR between them 
 or `os.O_CREATE|os.O_TRUNC|os.O_WRONLY`
 -----------
 ### Options
------------
 
 |attributes|values        |
 |---------|---------------|
